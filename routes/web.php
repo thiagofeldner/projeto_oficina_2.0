@@ -13,8 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-Route::resource('cliente', 'ClienteController');
+Route::any('clientes/search', 'ClientController@search')->name('clients.search');
+Route::resource('/clientes', 'ClientController');
+
 

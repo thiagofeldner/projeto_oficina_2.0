@@ -75,6 +75,9 @@
 /* Footer */
 #footer {
     background-color: #23282d;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
     padding: 10px 0px;
     text-align: center;
     color: white;
