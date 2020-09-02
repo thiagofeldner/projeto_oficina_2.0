@@ -18,6 +18,8 @@ Criação de uma CRUD para o teste da codificar, foi utilizado o PHP laravel uti
     - Foi padronizado as tabelas do banco de dados para Inglês;
     - Foi padronizado as mensagens de erros para seguir o padrão do Laravel para validação mais organizada;
     - Foi comentado todo o código pelos padrões javaDoc;
+    - Foi criado uma opção para visualização dos clientes;
+    - Foi criado uma view para visualização dos clientes.
 
 
 ### Listas não ordenadas
